@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.ipynb_checkpoints/
+
+# ML artifacts
+*.pt
+*.pth
+*.onnx
+*.zip
+checkpoints/
+runs/
+logs/
+tensorboard/
+wandb/
+
+# C++ / Visual Studio build
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.dll
+*.asi
+*.cleo
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+.vs/
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
